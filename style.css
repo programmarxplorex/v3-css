@@ -1,8 +1,26 @@
-.blog{
-    background-color: #dadada;
-    width: 400px;
-    margin: 50px;
-    box-shadow: -10px 10px 60px  rgb(0, 0, 0);
-    padding: 20px;
-    border-radius: 20px;
+
+.v1 {
+    height: 200px;
+    width: 200px;
+    background-color: #ff0000;
+}
+
+.v2 {
+    height: 200px;
+    width: 200px;
+    background-color: #5eff00;
+}
+
+.v3 {
+    height: 200px;
+    width: 200px;
+    background-color: #001aff;
+}
+
+.parent{
+    display: flex;
+    justify-content: ;
+    flex-direction: row;
+    align-items: ;
+    height: 500px;
 }
